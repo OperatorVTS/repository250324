@@ -1,0 +1,9 @@
+2.select * from Groups
+  where name like 'ИТ%'
+3. select * from Groups
+   order by Rating desc
+4. select * from Teachers
+   Where Position = 'Professor'
+5.Select * from Teachers
+  where Employmentdate >= '2010-02-09'
+
